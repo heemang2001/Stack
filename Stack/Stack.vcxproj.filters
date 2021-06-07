@@ -16,10 +16,16 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{a7dbfbf2-4ded-44d4-b617-fd35161e7f87}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{ed5fc570-32ab-4a0b-979d-197b11d2d733}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="제로.cpp">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
