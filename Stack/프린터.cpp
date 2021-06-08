@@ -54,6 +54,7 @@ int main()
 {
 	cout << solution({ 2,1,3,2 }, 2) << '\n';	  // 1
 	cout << solution({ 1,1,9,1,1,1 }, 0) << '\n'; // 5
+	cout << solution({ 3,4,3}, 0) << '\n';		  // 3
 
 	return 0;
 }
