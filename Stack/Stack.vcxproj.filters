@@ -51,5 +51,8 @@
     <ClCompile Include="창고 다각형.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="카드1.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
