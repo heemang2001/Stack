@@ -30,8 +30,8 @@ int main()
 	{
 		int TopCardNum = q.front();
 		q.pop();
-
 		vecAbandonCard.push_back(TopCardNum);
+
 		int SecondCardNum = q.front();
 		q.pop();
 		q.push(SecondCardNum);
